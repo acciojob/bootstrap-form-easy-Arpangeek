@@ -39,7 +39,7 @@ body {
     }
 
     input.form-control,
-    select.form-control {
+    select.form-select {
       padding: 0.5rem;
       border: 1px solid #ccc;
       border-radius: 4px;
