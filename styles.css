@@ -38,7 +38,8 @@ body {
       margin-bottom: 0.5rem;
     }
 
-    input, select {
+    input.form-control,
+    select.form-control {
       padding: 0.5rem;
       border: 1px solid #ccc;
       border-radius: 4px;
